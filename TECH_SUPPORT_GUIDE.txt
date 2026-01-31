@@ -1,0 +1,90 @@
+ULTIMATE TECH SUPPORT TROUBLESHOOTING GUIDE
+============================================
+
+PROBLEM: Computer won't turn on
+SOLUTION: Make sure it's plugged in. No, seriously. We've all been there.
+
+PROBLEM: Internet not working
+SOLUTION: Have you tried unplugging it and plugging it back in?
+ALTERNATE SOLUTION: Blow on the ethernet cable like an old Nintendo cartridge
+
+PROBLEM: Keyboard not working
+SOLUTION: Check if you've been typing on your desk instead of the keyboard (happens more than you'd think)
+
+PROBLEM: Mouse cursor moving on its own
+SOLUTION: 
+  1. Check for ghosts
+  2. If no ghosts, check for cats
+  3. If no cats, clean your mouse (the computer one)
+  4. If still happening, accept your new AI overlord
+
+PROBLEM: Screen is black
+SOLUTION:
+  - Is it turned on?
+  - Is the brightness just really low?
+  - Did you close your eyes?
+  - Are you looking at the back of the monitor?
+
+PROBLEM: Printer not working
+SOLUTION: Printers are chaos incarnate. Throw it away. Buy a new one. It won't work either.
+ADVANCED SOLUTION: Offer a small sacrifice to the printer gods (paper clips work)
+
+PROBLEM: "No space left on device"
+SOLUTION: Delete some of your 47,000 "untitled.txt" files
+
+PROBLEM: WiFi password not working
+SOLUTION:
+  - Is Caps Lock on?
+  - Are you typing the password written on the router or your neighbor's router?
+  - Is it actually "Password123" and you just refuse to accept this reality?
+
+PROBLEM: Computer running slow
+SOLUTION:
+  1. Close all 87 Chrome tabs
+  2. Yes, even the ones from 2019
+  3. Especially the ones from 2019
+
+PROBLEM: Can't find a file
+SOLUTION:
+  - Check the Desktop
+  - Check Downloads
+  - Check Documents
+  - Check the Recycle Bin
+  - Cry
+  - Find it 3 months later in a folder called "New Folder (7)"
+
+PROBLEM: Video call not working
+SOLUTION:
+  - Unmute yourself (it's always this)
+  - Turn on your camera
+  - Remove the sticky note over your camera
+  - Accept that your cat will walk across the keyboard at the worst moment
+
+PROBLEM: "Error 404"
+SOLUTION: The page doesn't exist. Move on with your life.
+
+PROBLEM: "Error 500"
+SOLUTION: Not your problem. Go get coffee.
+
+PROBLEM: Program won't install
+SOLUTION: Did you click "Next" like 500 times without reading anything? 
+          You probably declined the EULA. Start over.
+
+PROBLEM: Email won't send
+SOLUTION:
+  - Did you actually press send?
+  - Are you connected to the internet?
+  - Is it stuck in Outbox because you're pretending to work from a coffee shop?
+
+PROBLEM: Nothing works and you've tried everything
+SOLUTION: Restart your computer. This fixes 94% of all problems.
+LAST RESORT: Is Mercury in retrograde?
+
+═══════════════════════════════════════════════════════
+EMERGENCY HOTLINE: Just Google it
+HOURS: 24/7 (Google never sleeps)
+WAIT TIME: However long it takes you to find the right forum post from 2007
+═══════════════════════════════════════════════════════
+
+Disclaimer: Following this guide may or may not fix your problem. 
+           Probably won't. Good luck though!
