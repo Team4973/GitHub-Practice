@@ -1,0 +1,140 @@
+PROGRAMMER'S OFFICIAL EXCUSE HANDBOOK
+======================================
+For when things inevitably break in production
+
+CATEGORY: CODE DOESN'T WORK
+---------------------------
+☐ "It works on my machine"
+☐ "It worked yesterday"
+☐ "It worked in dev"
+☐ "Must be a caching issue"
+☐ "Probably DNS"
+☐ "It's a hardware problem"
+☐ "It's a network issue"
+☐ "Cosmic rays flipped a bit"
+☐ "The database is haunted"
+☐ "Mercury is in retrograde"
+
+CATEGORY: MISSED DEADLINE
+--------------------------
+☐ "The requirements kept changing"
+☐ "I was waiting on [person who is on vacation]"
+☐ "95% done, just needs some minor tweaks" (translation: 40% done)
+☐ "I had to refactor the entire codebase for... reasons"
+☐ "Stack Overflow was down"
+☐ "ChatGPT was hallucinating"
+☐ "I was blocked by [vague dependency]"
+☐ "The compiler was being weird"
+☐ "I spent 3 days on a bug that was a missing semicolon"
+☐ "I had meetings all week" (had 2 meetings)
+
+CATEGORY: BUGS IN PRODUCTION
+-----------------------------
+☐ "That's not a bug, it's a feature"
+☐ "I can't reproduce it"
+☐ "Works fine for me ¯\_(ツ)_/¯"
+☐ "Are you sure you cleared your cache?"
+☐ "Must be user error"
+☐ "That's legacy code, we don't touch that"
+☐ "Previous developer did that, I just got here"
+☐ "The intern pushed to main"
+☐ "I thought QA would catch that"
+☐ "It's a race condition, very rare"
+☐ "Did you try turning it off and on again?"
+
+CATEGORY: CODE REVIEW DELAYS
+-----------------------------
+☐ "I was in deep focus mode"
+☐ "I didn't get a notification"
+☐ "I was context switching"
+☐ "The PR description wasn't clear enough"
+☐ "I was reviewing in my head"
+☐ "Waiting for CI to pass" (CI passed 3 days ago)
+☐ "I wanted to test it locally first" (narrator: they didn't)
+
+CATEGORY: DOCUMENTATION
+------------------------
+☐ "The code is self-documenting"
+☐ "I'll document it later" (never documents it)
+☐ "It's pretty straightforward"
+☐ "Just read the tests" (there are no tests)
+☐ "Documentation is out of date anyway"
+☐ "Who reads documentation?"
+☐ "I left comments" (comments: "// TODO: fix this hack")
+
+CATEGORY: TESTS
+---------------
+☐ "Tests are for QA"
+☐ "I tested it manually"
+☐ "I'll write tests after the MVP"
+☐ "TDD slows me down"
+☐ "Test coverage is just a number"
+☐ "Unit tests don't catch real bugs anyway"
+☐ "I ran it locally and it worked"
+☐ "The tests are flaky, not my code"
+
+CATEGORY: PERFORMANCE ISSUES
+-----------------------------
+☐ "Premature optimization is the root of all evil"
+☐ "It'll scale when we need it to"
+☐ "Just throw more RAM at it"
+☐ "That's a problem for DevOps"
+☐ "N+1 queries build character"
+☐ "We'll fix it in the next sprint" (we won't)
+
+CATEGORY: SECURITY VULNERABILITIES
+-----------------------------------
+☐ "Security through obscurity"
+☐ "No one would actually try that"
+☐ "We'll add authentication later"
+☐ "It's an internal tool"
+☐ "TODO: sanitize input" (TODO from 2019)
+☐ "The firewall will catch it"
+
+CATEGORY: GIT ISSUES
+--------------------
+☐ "I forgot to pull"
+☐ "I thought I was on a different branch"
+☐ "Git is just being git"
+☐ "Merge conflicts are not my fault"
+☐ "I'll just force push" (narrator: don't)
+☐ "The .gitignore was already like that"
+☐ "I committed the .env file but I rotated the keys" (they didn't)
+
+CATEGORY: GENERAL PURPOSE EXCUSES
+----------------------------------
+☐ "I need to rubber duck this"
+☐ "Let me check Stack Overflow real quick"
+☐ "It's technically correct"
+☐ "That's outside the scope of this ticket"
+☐ "We can circle back to that"
+☐ "Let's table that discussion"
+☐ "I'm waiting for inspiration"
+☐ "Coffee machine was broken"
+☐ "My dog ate my commit"
+☐ "Solar flare interfered with my brain waves"
+
+EMERGENCY EXCUSES (Use Sparingly)
+----------------------------------
+☐ "Aliens"
+☐ "Ghosts in the machine"
+☐ "The cloud is actually just someone else's problem"
+☐ "Quantum entanglement"
+☐ "It's AI, we can't explain how it works"
+
+═══════════════════════════════════════════════════════
+
+IMPORTANT REMINDERS:
+• Always blame caching first
+• When in doubt, blame DNS second  
+• If all else fails, blame JavaScript
+• Never say "I don't know" - say "That's an interesting edge case"
+• "I'll create a ticket for that" = the graveyard of good intentions
+
+LEGAL DISCLAIMER: This handbook is satire. Please actually fix your bugs,
+write tests, and document your code. Your future self will thank you.
+(But your current self is probably too busy "refactoring" to care.)
+
+Version: 1.0.0 (will never be updated)
+Last Modified: When I remember to commit this file
+License: WTFPL (Do What The F*** You Want Public License)
